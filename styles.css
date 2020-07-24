@@ -1,9 +1,12 @@
 body{
 background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, 
-    rgba(99,9,121,0.8027397260273973) 35%, 
-    rgba(0,212,255,1) 100%);
+    rgba(121,9,16,0.8027397260273973) 44%, 
+    rgba(255,0,46,1) 100%);
 }
 h1{
-    background: white
+    color: white;
+}
+p{
+    color: white;
 }
